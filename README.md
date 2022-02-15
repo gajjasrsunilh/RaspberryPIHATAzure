@@ -10,4 +10,7 @@ We can use "ASP.NET Web API" or Use "PI Web API":
 
 Python code send data to Azure IOTHub - MQTT and message is formatted JSON string, same we can use to post data to WEB API endpoints.
 
-References are mentioned in the attachment or write to me if somebody needs code.
+Code: Python file is attached here
+
+https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-python-python-c2d
